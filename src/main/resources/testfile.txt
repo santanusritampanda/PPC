@@ -1,0 +1,8 @@
+1, emp101, Bill, Gates, Software Engineer, ONBOARD, 1-11-2022, 10-10-2022, "Bill Gates is going to join DataOrb on 1st November as a SE."
+2, emp102, Steve, Jobs, Architect, ONBOARD, 1-10-2022, 10-10-2022, "Steve Jobs joined DataOrb on 1st October as an Architect."
+3, emp103, Martin, Fowler, Software Engineer, ONBOARD, 1-10-2022, 10-10-2022, "Martin has joined DataOrb as a SE."
+4, emp101, SALARY, 4000, 10-12-2022, "Salary of NOV 2022 month."
+5, emp101, SALARY, 4000, 10-01-2023, "Salary of DEC 2022 month."
+6, emp102, SALARY, 5000, 10-12-2022, "Salary of NOV 2022 month."
+7, emp102, SALARY, 5000, 10-01-2023, "Salary of DEC 2022 month."
+8, emp103, BONUS, 2000, 01-01-2023, "Performance bonus of year 2022"
