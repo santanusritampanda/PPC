@@ -35,11 +35,7 @@ public class PPCServiceImpl implements PPCService {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
             List<Employee> employees = new ArrayList<>();
             while ((line = reader.readLine()) != null) {
-                String[] data = line.split(", ");
-                for (int i = 0; i < data.length; i++) {
-					System.out.println(data[i]);
-				}
-                System.out.println(data.length);
+                String[] data = line.split(", ");              
                 if (data.length == 9) {
                 	CommonUtils.checkEventDetails(data[5], "ONBOARD");
                     Employee employee = CommonUtils.convertToEmployeeDetails(data);
